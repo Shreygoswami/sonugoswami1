@@ -41,4 +41,9 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonugoswami1&theme=tokyonight" />
 
+### 🏆 GitHub Profile Trophy
+
+<br/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img alt="sonugoswami's Top Languages" src="https://github-profile-trophy.vercel.app/?username=sonugoswami1&theme=radical" /></a>
+
 [linkedin]: https://www.linkedin.com/in/sonugoswami1/
